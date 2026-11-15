@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="300" viewBox="0 0 1200 300" role="img" aria-labelledby="title desc">
+<title id="title">ArduinoQuack — Android apps and root tools</title><desc id="desc">A yellow pixel duck beside the ArduinoQuack name on a charcoal background.</desc>
+<rect width="1200" height="300" rx="12" fill="#111817"/>
+<path d="M36 36h1128M36 264h1128" stroke="#2d3833"/>
+<circle cx="56" cy="62" r="4" fill="#f4cf58"/>
+<text x="73" y="67" fill="#a8b9ac" font-family="monospace" font-size="14" letter-spacing="3">ANDROID APPS / ROOT TOOLS</text>
+<text x="52" y="164" fill="#f3f0e6" font-family="Arial,Helvetica,sans-serif" font-size="68" font-weight="700" letter-spacing="-3">ArduinoQuack</text>
+<text x="56" y="214" fill="#b8c4b9" font-family="Arial,Helvetica,sans-serif" font-size="21">A few changes to the phone in my pocket.</text>
+<path d="M832 65h55l20 20h35M800 230h72l23-23h66M1060 88h73v45h31M1082 214h46l23 23h13" fill="none" stroke="#344338" stroke-width="2"/>
+<g fill="#111817" stroke="#5b725e" stroke-width="2"><circle cx="832" cy="65" r="4"/><circle cx="800" cy="230" r="4"/><circle cx="1133" cy="133" r="4"/></g>
+<g transform="translate(941 72) scale(9)"><path fill="#f4cf58" d="M4 0h5v1h2v2h1v4h-1v2h-1v1h1v2H9v2H7v1H1v-1h-2v-1h-1v-2h-1V8h2v1h2V8h3V7H3V5H2V2h2z"/><path fill="#e4b743" d="M1 10h4v1h3v1H7v1H2v-1H1z"/><path fill="#ed8c46" d="M11 4h4v2h-4z"/><path fill="#111817" d="M8 3h1v1H8z"/></g>
+</svg>
